@@ -1,0 +1,16 @@
+CRUD Operations:
+o Inventory Management:
+▪ Create: Allow users to add new inventory items with details such as item ID, item name, quantity, and storage location. - completed (make sure that the data type errors are caught, make sure cross system compat)
+▪ Retrieve: Implement functions to display all inventory items or search for a specific item by ID or name.
+▪ Update: Enable modifications to inventory details (e.g., updating quantities, changing locations, or editing item descriptions).
+▪ Delete: Provide functionality to remove inventory records, ensuring confirmation prompts to avoid accidental deletions.
+o Order Processing:
+▪ Create: Record new orders including order ID, order date, customer name, and order status.
+▪ Retrieve: Offer options to view order histories or search orders by ID or customer name.
+▪ Update: Allow updates to order information, such as status changes (e.g., from “Pending” to “Shipped”).
+▪ Delete: Enable the deletion of order records with appropriate safeguards.
+o Shipment Tracking:
+▪ Create: Input new shipment records including shipment ID, destination, shipment date, and shipment status.
+▪ Retrieve: Display shipment records and allow filtering (e.g., by status or destination).
+▪ Update: Provide mechanisms for updating shipment details.
+▪ Delete: Allow removal of shipment records, with confirmation to prevent errors.
